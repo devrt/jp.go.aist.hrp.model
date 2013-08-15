@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="jp.go.aist.hrp.model.pa10.feature"
+      label="PA10 Model Feature"
+      version="1.0.0.qualifier"
+      license-feature="jp.go.aist.hrp.feature"
+      license-feature-version="1.0.0.qualifier">
+   <plugin
+         id="jp.go.aist.hrp.model.pa10"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"/>
+
+</feature>

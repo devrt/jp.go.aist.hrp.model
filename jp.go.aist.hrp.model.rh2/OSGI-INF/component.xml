@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0" name="jp.go.aist.hrp.model.rh2">
+   <implementation class="jp.go.aist.hrp.model.rh2.ModelDataProvider"/>
+   <service>
+      <provide interface="devrt.osgi.IModelDataProvider"/>
+   </service>
+</scr:component>

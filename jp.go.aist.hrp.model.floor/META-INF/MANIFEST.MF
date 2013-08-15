@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: OpenHRP Floor Model
+Bundle-SymbolicName: jp.go.aist.hrp.model.floor;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: jp.go.aist.hrp.model.floor.Activator
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Import-Package: org.osgi.framework;version="1.3.0"
+Service-Component: OSGI-INF/component.xml
+Eclipse-BundleShape: dir
+Require-Bundle: devrt.osgi,
+ org.eclipse.emf.common,
+ org.eclipse.swt,
+ org.eclipse.jface,
+ org.eclipse.osgi

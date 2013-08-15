@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="jp.go.aist.hrp.world.simplevehicle.feature"
+      label="Simple Vehicle World Feature"
+      version="1.0.0.qualifier"
+      license-feature="jp.go.aist.hrp.feature"
+      license-feature-version="1.0.0.qualifier">
+
+   <includes
+         id="jp.go.aist.hrp.model.simplevehicle.feature"
+         version="0.0.0"/>
+
+   <plugin
+         id="jp.go.aist.hrp.world.simplevehicle"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"/>
+
+</feature>
